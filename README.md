@@ -10,7 +10,7 @@ https://academic.oup.com/bioinformatics/article/23/22/3100/208693
 
 ## 2. Basic steps for analysis
 
-**Step 1.** dowload the software and unzipped, then click pathway.bat to start the program.
+**Step 1.** dowload the software and unzipp file, then click pathway.bat to start the program.
 <p align="center">
   <img src='https://raw.githubusercontent.com/shouguog/TAPPA/master/figures/F11.jpg'>
 </p>
@@ -18,11 +18,11 @@ https://academic.oup.com/bioinformatics/article/23/22/3100/208693
 <p align="center">
   <img src='https://raw.githubusercontent.com/shouguog/TAPPA/master/figures/F2.jpg'>
 </p>
-**Step 3.** the result is shown in table, can be saved in text file. Choose one pathway and click Display Pathway Diagram.
+**Step 3.** the result is shown in table and can be saved in a text file. Choose one pathway and click "Display Pathway Diagram".
 <p align="center">
   <img src='https://raw.githubusercontent.com/shouguog/TAPPA/master/figures/F3.jpg'>
 </p>
-**Step 4.** The selected pathway is displayed, and genes are colored by expression.
+**Step 4.** The selected pathway appears, and genes are colored by their expression features.
 <p align="center">
   <img src='https://raw.githubusercontent.com/shouguog/TAPPA/master/figures/F4.jpg'>
 </p>
