@@ -12,7 +12,7 @@ https://academic.oup.com/bioinformatics/article/23/22/3100/208693
 
 **Step 1.** dowload the software and unzipped, then click pathway.bat to start the program.
 <p align="center">
-  <img src='https://raw.githubusercontent.com/shouguog/TAPPA/master/figures/F1.jpg'>
+  <img src='https://raw.githubusercontent.com/shouguog/TAPPA/master/figures/F2.jpg'>
 </p>
 
 ## Developers and Maintainers
