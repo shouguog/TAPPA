@@ -10,7 +10,7 @@ https://academic.oup.com/bioinformatics/article/23/22/3100/208693
 
 ## 2. Basic steps for analysis
 
-**Step 1.** Dowload the software and unzipp file, then click pathway.bat to start the program.
+**Step 1.** Dowload the software and unzip file, then click pathway.bat to start the program.
 <p align="center">
   <img src='https://raw.githubusercontent.com/shouguog/TAPPA/master/figures/F11.jpg'>
 </p>
